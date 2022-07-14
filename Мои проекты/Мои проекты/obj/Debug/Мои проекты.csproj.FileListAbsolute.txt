@@ -1,0 +1,12 @@
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.AssemblyReference.cache
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form1.resources
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form2.resources
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Properties.Resources.resources
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.GenerateResource.cache
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.csproj.CoreCompileInputs.cache
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe.config
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\bin\Debug\Мои проекты.exe
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\bin\Debug\Мои проекты.pdb
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.exe
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.pdb
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Калькулятор.resources
