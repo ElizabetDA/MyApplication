@@ -55,6 +55,7 @@ namespace Мои_проекты
 
         private void btn_click(object sender, EventArgs e)
         {
+
             string strFirst = string.Copy(textBox1.Text);
             string strSecond = string.Copy(textBox2.Text);
 
@@ -80,28 +81,30 @@ namespace Мои_проекты
             else
                 numSecond = 0.0D;
 
-            string btnText = "";
+            string btnText = " ";
             bool divideFlag = false;
             Button btn = (Button)sender;
 
             switch (btn.Name)
             {
-                case "Increment":
+                case "button1":
+
                     btnText = "\" + \"";
                     numRes = numFirst + numSecond;
-                    label1.Text = numRes.ToString();
+                    label4.Text = numRes.ToString();
                     break;
-                case "Decrement":
+                case "button2":
                     btnText = "\" - \"";
                     numRes = numFirst - numSecond;
                     label4.Text = numRes.ToString();
                     break;
-                case "Incremase":
+                case "button3":
                     btnText = "\" * \"";
+
                     numRes = numFirst * numSecond;
                     label4.Text = numRes.ToString();
                     break;
-                case "Divide":
+                case "button4":
                     btnText = "\" : \"";
                     numRes = numFirst / numSecond;
                     label4.Text = numRes.ToString();

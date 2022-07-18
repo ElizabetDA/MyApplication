@@ -10,3 +10,4 @@ C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои п
 C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.exe
 C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои проекты.pdb
 C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Калькулятор.resources
+C:\Users\student.ITSTEP\Documents\Дьченко\Мои проекты\Мои проекты\obj\Debug\Мои_проекты.Form3.resources

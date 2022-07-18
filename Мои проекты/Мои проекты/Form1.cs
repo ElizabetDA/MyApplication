@@ -26,6 +26,8 @@ namespace Мои_проекты
 
         private void linkLabel2_Click(object sender, EventArgs e)
         {
+            Form frm = new Form3();
+            frm.Show();
 
         }
 
