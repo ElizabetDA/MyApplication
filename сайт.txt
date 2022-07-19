@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <link rel = "stylesheet" href="style.css" >   
+  </head>
+   <body>
+      <div class="background ver1">
+        <p class="discription"> Resident Evil 8: Village</p>
+      </div>
+      <div class="background ver2">
+        <p class="aboutGame">Resident Evil 8: Village - игра в жанре ужастика на выживание, разработанная и изданная японской компанией Capcom. Это одна из основных частей серии Resident Evil, повествовательный сиквел к Resident Evil 7: Biohazard (2017). Итан Уинтерс, после судьбоносной встречи с Крисом Редфилдом, оказывается в селе с мутантами, чтобы найти свою похищенную дочь. Игра, сохраняя базовые для серии элементы ужасов и выживания, по сравнению с прошлой частью стала более экшн-ориентированной. Resident Evil Village также содержит онлайновый мультиплеерный режим. <br> После релиза игру встретили в целом положительно благодаря геймплею, сеттингу и разнообразию, хотя немного критиковали за головоломки и бои с боссами, а также неоднозначно оценивали в связи с повышением значения экшна. Игра была анонсирована 11 июня 2020 года в рамках презентации PlayStation 5, её выход состоялся 7 мая 2021 года для платформ Windows, PlayStation 4, PlayStation 5, Xbox One и Xbox Series X/S.<br> 6 июня 2022 года был анонсирован выход игры на macOS. Главным героем игры вновь выступает Итан Уинтерс, протагонист Resident Evil 7: Biohazard, который в результате неназванных событий оказывается в загадочной заснеженной деревне — месте действия игры.
+      </div>
+      <div class="background ver3">
+        <div class="photo">
+          <img id="photoAuthor" src="https://ixbt.online/gametech/covers/2022/04/02/nova-filepond-GB20gU.jpg">
+        </div>
+        <div class="author">
+          <p class="aboutAuthor">Capcom</p>
+        </div>        
+      </div>
+   <body>
+</html>
+body,html{
+  height : 100%;
+  margin: -10 -10 -10 -10;
+}
+
+.background{
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.background.ver1{
+  margin-top: -20%;
+  min-height:125%;
+  background-size:100%;
+  background-image: url(https://cdn.igromania.ru/mnt/articles/f/7/6/5/2/e/31675/preview/4ac859f316db937b_1920xH.jpg); 
+}
+.background.ver2{
+  margin-top: -2%;
+  min-height:125%;
+  background-size:100%;
+  background-image: url(https://i.playground.ru//i/screenshot/133665/resident_evil_village.jpg); 
+}
+.background.ver3{
+  min-height:125%;
+  background-size:100%;
+  background-image: url(https://vgtimes.ru/uploads/posts/2021-05/thumbs/1620223517_vlcsnap-2021-04-30-14h44m27s627.jpg); 
+}
+
+.discription{
+  text-align: center;
+  font-size: 100pt;
+  color: white;
+  font-family: Verdana;
+  padding-top: 15%
+}
+
+.aboutGame{
+  text-align: center;
+  font-size: 20pt;
+  color: white;
+  padding-top: 15%
+}
+.aboutAuthor{
+  text-align: center;
+  font-size: 100pt;
+  color: white;
+  font-family: Verdana;
+  padding-top: 5%;
+  margin-top: 300px;
+}
+.photo{
+  width:50%;
+  float: left;
+}
+.author{
+  width:50%;
+  float: left;
+}
+
+#photoAuthor{
+  width:500px;
+  height: 400px;
+  margin-left: 10%;
+  margin-top: 200px;
+}
